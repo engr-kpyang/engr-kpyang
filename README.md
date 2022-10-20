@@ -8,7 +8,7 @@ During my downtime, I contiune to study software, more specifically where softwa
 
 Develop in Javascript, Typescript, Python and Java.
 
-Interested in Containers, Kubernetes, Sustainable Blockchain, The iterative process towards Web3
+Interested in Containers, Kubernetes, Sustainable Blockchain, The iterative process towards Web3.
 
 ## 📬 :pen: My Contact
 
@@ -16,6 +16,8 @@ Interested in Containers, Kubernetes, Sustainable Blockchain, The iterative proc
 - Web: TBA
 
 ## 🌳 Thoughts on paper
+
+Stay tuned for my blog!
 
 If you want to know more about my thought process head over to my blog on Medium.
 You will find here mainly reads more on the future of software. Occasionally a tutorial or two. :computer:
