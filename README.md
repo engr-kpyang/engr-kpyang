@@ -1,6 +1,6 @@
 ![Kong Yang](kp-banner.png)
 
-Hey 👋🏻,
+Hey there! 👋🏻,
 
 I am KP, a human-centric architect and developer.
 I am interested in developing applications for everyday users by simplifying complex architectures.
