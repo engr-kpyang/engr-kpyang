@@ -24,9 +24,9 @@ You will find here mainly reads more on the future of software. Occasionally a t
 
 - Medium: [medium.com/@engr-kpyang][3]
 
-## &#x1f4c8; My GitHub Stats
+<!-- ## &#x1f4c8; My GitHub Stats
 
-<!-- <a href="https://github.com/engr-kpyang/Main-Profile">
+<a href="https://github.com/engr-kpyang/Main-Profile">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engr-kpyang&hide=java,html&title_color=000000&text_color=000000" />
 </a>
 
