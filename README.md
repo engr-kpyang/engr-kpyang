@@ -13,7 +13,7 @@ Interested in Containers, Kubernetes, Sustainable Blockchain, The iterative proc
 ## 📬 :pen: My Contact
 
 - LinkedIn: [linkedin.com/in/engineer-k-yang][2]
-- Web: TBA
+- Portfolio: [https://engr-kpyang.github.io/][4]
 
 ## 🌳 Thoughts on paper
 
@@ -38,3 +38,4 @@ You will find here mainly reads more on the future of software. Occasionally a t
 [1]: https://www.canva.com/design/DAFMJHvWmx4/Kt5G95VmUuEXbxC-Uk5WmQ/view?utm_content=DAFMJHvWmx4&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
 [2]: https://www.linkedin.com/in/engineer-k-yang/
 [3]: https://medium.com/@engr-kpyang
+[4]: https://engr-kpyang.github.io/
